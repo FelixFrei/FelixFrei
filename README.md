@@ -15,10 +15,6 @@ IT Engineer – Financial Services | AI | Sport
 > Deep in vibe-coding mode — building AI-powered projects across Bitcoin infrastructure & micropayments, Healthtech innovation, and applied GenAI engineering.
 
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/FelixFrei)
-
 ## Current Projects
 
 - �📄 **[docu-retriever](https://github.com/FelixFrei/docu-retriever)** - Document retrieval utilities for AI workflows.
