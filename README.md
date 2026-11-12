@@ -12,11 +12,12 @@ IT Engineer – Financial Services | AI | Sport
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
-> Deep in vibe-coding mode — building AI-powered projects across Bitcoin infrastructure & micropayments and applied GenAI engineering.
+> Building AI-powered projects across Bitcoin infrastructure & micropayments and applied GenAI engineering.
 
 
 ## Current Projects
 
+- 📉 **[beta-lag](https://github.com/f418me/beta-lag)** - Research system exploring whether equity-market stress precedes delayed Bitcoin sell-offs.
 - 📄 **[docu-retriever](https://github.com/FelixFrei/docu-retriever)** - Document retrieval utilities for AI workflows.
 - 🪿 **[goose](https://github.com/swisscom/goose)** - Swiss AI Platform Provider implementation for goose.
 - 👀 **[asentrx-web-monitor](https://github.com/f418me/asentrx-web-monitor)** - Web monitoring utilities for FED statement analysis.
@@ -48,4 +49,4 @@ IT Engineer – Financial Services | AI | Sport
 
 ---
 
-Last updated: 2026-09-27
+Last updated: 2026-11-12
